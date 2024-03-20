@@ -1,12 +1,10 @@
 ![logo](https://github.com/Duygu-Jones/Duygu-Jones/blob/main/Duygu%20Jones%20Logo1%20Black.png)
 
-
-<img align="right" alt="Coding" width="340" src="https://dwzke5c1hcizv.cloudfront.net/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2FSemantic_Feature_Discovery_with_Code_Mining_and_Semantic_Type_Detection_c64ed1f3c3.gif&w=3840&q=75">
-
- 
  <h3 align="left"> :mag_right: About Me</h3>
  
  ---
+
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
  
  
 - 📫 E-mail    : **duygujones@gmail.com** 
