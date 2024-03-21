@@ -54,16 +54,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duygu-jones&theme=dark&show_icons=true&locale=en" alt="duygu-jones" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duygu-jones&theme=dark&" alt="duygu-jones" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duygu-jones&theme=dark&show_icons=true&locale=en&layout=compact" alt="duygu-jones" /></p>
-
-<h3 align="left">🔝 Top Contributed Repo</h3>
-
----
-
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=duygu-jones&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
-
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-
----
-
-![](https://github-profile-trophy.vercel.app/?username=duygu-jones&theme=dark&no-frame=False&show_icons=true&no-bg=true&margin-w=4)
