@@ -3,13 +3,9 @@
  <h3 align="left"> :mag_right: About Me</h3>
  
  ---
-
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
- 
  
 - 📫 E-mail    : **duygujones@gmail.com** 
 - ⚡ Languages : **English & Turkish**
-  
 
 <h3 align="left">🌐 Socials</h3>
 
@@ -23,6 +19,8 @@
 <h3 align="left">💻 Languages and Tools</h3>
 
 ---
+
+<img align="right" alt="Coding" width="90" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif"> 
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
