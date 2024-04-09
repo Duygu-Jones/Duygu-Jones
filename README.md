@@ -4,7 +4,7 @@
  
  ---
 
-// <img align="right" alt="Coding" width="200" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
+#<img align="right" alt="Coding" width="200" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
  
  
 - 📫 E-mail    : **duygujones@gmail.com** 
