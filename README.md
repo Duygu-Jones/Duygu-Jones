@@ -1,5 +1,7 @@
 ![logo](https://github.com/Duygu-Jones/Duygu-Jones/blob/main/Duygu%20Jones%20Logo1%20Black.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-Duygu-Jones)
+
  <h3 align="left"> :mag_right: About Me</h3>
  
  ---
