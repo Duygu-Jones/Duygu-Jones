@@ -20,8 +20,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@duygujones) 
 [![Kaggle](https://img.shields.io/badge/k-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/duygujones)
 
-
- <img align="right" alt="Coding" width="90" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif"> 
+ 
 
 <h3 align="left">💻 Languages and Tools</h3>
 
