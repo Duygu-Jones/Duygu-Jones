@@ -8,17 +8,16 @@
 <img src="https://komarev.com/ghpvc/?username=Duygu-Jones"/>
 </p>
 
-<h2>Data Scientist, Computer Science BSc.</h2>
+<h2 align="center">Data Scientist, Computer Science BSc.</h2>
  
 - 🎯 Currently working on Machine Learning, Deep Learning, Generative AI, and NLP.
 - 🤝 Open to collaborating on Projects
-
 - 📫 E-mail    : **duygujones@gmail.com** 
 - ⚡ Languages : **English & Turkish**
  
 <br> 
 
-<h2> Languages and Tools</h2>
+<h2 align="center"> Languages and Tools</h2>
 
 
 <p align="left"> 
@@ -45,7 +44,7 @@
 
 <br>
 
-<h2> GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=duygu-jones&theme=dark&show_icons=true&locale=en" alt="duygu-jones"></p>
 <p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=duygu-jones&theme=dark&" alt="duygu-jones"></p>
