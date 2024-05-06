@@ -2,19 +2,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-Duygu-Jones)
 
- <h3 align="left"> :mag_right: About Me</h3>
+ <h2> About Me </h2> 
  
- ---
- 
-- 🎯 Focused on Data Analysis, Machine Learning, Deep Learning, NLP, Generative AI
+- 🎯 Focused on Generative AI, Machine Learning, Deep Learning, NLP.
 - 🤝 Open to collaborating on Projects
 
 - 📫 E-mail    : **duygujones@gmail.com** 
 - ⚡ Languages : **English & Turkish**
 
-<h3 align="left">🌐 Socials</h3>
+<h2> Socials</h3>
 
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duygujones/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@duygujones) 
@@ -22,10 +19,7 @@
 
  
 
-<h3 align="left">💻 Languages and Tools</h3>
-
----
-
+<h2> Languages and Tools</h2>
 
 
 <p align="left"> 
@@ -51,9 +45,8 @@
 </p>
 
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h2> GitHub Stats</h2>
 
----
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duygu-jones&theme=dark&show_icons=true&locale=en" alt="duygu-jones" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duygu-jones&theme=dark&" alt="duygu-jones" /></p>
