@@ -1,4 +1,4 @@
-![logo](https://github.com/Duygu-Jones/Duygu-Jones/blob/main/Duygu%20Jones%20Logo1%20Black.png)
+![logo](https://github.com/Duygu-Jones/Duygu-Jones/blob/main/DuyguJones%20Banner.png)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/duygujones/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
