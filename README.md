@@ -1,23 +1,22 @@
 ![logo](https://github.com/Duygu-Jones/Duygu-Jones/blob/main/Duygu%20Jones%20Logo1%20Black.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-Duygu-Jones)
+<p align="center">
+<a href="https://www.linkedin.com/in/duygujones/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
+<a href="https://www.kaggle.com/duygujones"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="60" height="20" /></a>
+<a href="https://www.medium.com/@duygujones"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="20" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Duygu-Jones"/>
+</p>
 
- <h2> About Me </h2> 
+<h2>Data Scientist, Computer Science BSc.</h2>
  
-- 🎯 Focused on Generative AI, Machine Learning, Deep Learning, NLP.
+- 🎯 Currently working on Machine Learning, Deep Learning, Generative AI, and NLP.
 - 🤝 Open to collaborating on Projects
 
 - 📫 E-mail    : **duygujones@gmail.com** 
 - ⚡ Languages : **English & Turkish**
-
-<h2> Socials</h3>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duygujones/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@duygujones) 
-[![Kaggle](https://img.shields.io/badge/k-%230077B5.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/duygujones)
-
  
+<br> 
 
 <h2> Languages and Tools</h2>
 
@@ -44,10 +43,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+<br>
 
 <h2> GitHub Stats</h2>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duygu-jones&theme=dark&show_icons=true&locale=en" alt="duygu-jones" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duygu-jones&theme=dark&" alt="duygu-jones" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duygu-jones&theme=dark&show_icons=true&locale=en&layout=compact" alt="duygu-jones" /></p>
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=duygu-jones&theme=dark&show_icons=true&locale=en" alt="duygu-jones"></p>
+<p align="center"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=duygu-jones&theme=dark&" alt="duygu-jones"></p>
+<p align="center"><img align='center'  src="https://github-readme-stats.vercel.app/api/top-langs?username=duygu-jones&theme=dark&show_icons=true&locale=en&layout=compact" alt="duygu-jones"></p>
