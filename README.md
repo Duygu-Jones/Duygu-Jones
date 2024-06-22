@@ -19,7 +19,7 @@
  
 <br> 
 
-📢I announce and share all my projects first on LinkedIn. If you would like to stay updated on my latest projects♻️💫 
+📢I announce and share all my projects first on my [**LinkedIn**](https://www.linkedin.com/in/duygujones/) profile. If you would like to stay updated on my latest projects♻️💫 
 
 🌐Feel free to connect with me!
 
