@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/duygujones/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="70" height="20" /></a>
 <a href="https://www.kaggle.com/duygujones"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" width="60" height="20" /></a>
 <a href="https://www.medium.com/@duygujones"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70" height="20" /></a>
+<a href="https://duygujones.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4B4B4B?style=for-the-badge&logo=web&logoColor=white" width="70" height="20" /></a>
+
 <br>
 <img src="https://komarev.com/ghpvc/?username=Duygu-Jones"/>
 </p>
@@ -16,6 +18,12 @@
 - ⚡ Languages : **English & Turkish**
  
 <br> 
+
+📢I announce and share all my projects first on LinkedIn. If you would like to stay updated on my latest projects♻️💫 
+
+🌐Feel free to connect with me!
+
+<br>
 
 <h2 align="center"> Languages and Tools</h2>
 
