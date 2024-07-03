@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=Duygu-Jones"/>
 </p>
 
-<h2 align="center">Data Scientist, Computer Science BSc.</h2>
+<h2 align="center">Data Science, Computer Science BSc.</h2>
  
 - 🎯 Currently working on Machine Learning, Deep Learning, Generative AI, and NLP.
 - 🤝 Open to collaborating on Projects
