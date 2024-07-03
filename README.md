@@ -12,8 +12,7 @@
 
 <h2 align="center">Data Science, Computer Science BSc.</h2>
 
- I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning. 
- 
+
 - 🎯 Currently working on Machine Learning, Deep Learning and NLP.
 - 🤝 Open to collaborating on Projects
 - 📫 E-mail    : **duygujones@gmail.com** 
