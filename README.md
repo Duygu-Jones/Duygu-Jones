@@ -12,7 +12,7 @@
 
 <h2 align="center">Data Science, Computer Science BSc.</h2>
  
-- 🎯 Currently working on Machine Learning, Deep Learning, Generative AI, and NLP.
+- 🎯 Currently working on Machine Learning, Deep Learning and NLP.
 - 🤝 Open to collaborating on Projects
 - 📫 E-mail    : **duygujones@gmail.com** 
 - ⚡ Languages : **English & Turkish**
