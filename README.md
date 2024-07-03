@@ -11,6 +11,8 @@
 </p>
 
 <h2 align="center">Data Science, Computer Science BSc.</h2>
+
+ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning. 
  
 - 🎯 Currently working on Machine Learning, Deep Learning and NLP.
 - 🤝 Open to collaborating on Projects
@@ -19,9 +21,12 @@
  
 <br> 
 
-📢I announce and share all my projects first on my [**LinkedIn**](https://www.linkedin.com/in/duygujones/) profile. If you would like to stay updated on my latest projects♻️💫 
 
+🌱 You can find more about me and my work on my  [**Portfolio website**](https://duygujones.vercel.app/). 
+
+📢I announce and share all my projects first on my [**LinkedIn**](https://www.linkedin.com/in/duygujones/) profile. 
 🌐Feel free to connect with me!
+
 
 <br>
 
