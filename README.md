@@ -26,7 +26,7 @@
 
 🌱 You can find more about me and my work on my  [**Portfolio website**](https://duygujones.vercel.app/). 
 
-📢I announce and share all my projects first on my [**LinkedIn**](https://www.linkedin.com/in/duygujones/) profile. 
+📢I announce and share all my projects first on my [**LinkedIn**](https://www.linkedin.com/in/duygujones/) profile. <br>
 🌐Feel free to connect with me!
 
 
