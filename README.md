@@ -12,12 +12,12 @@
 
 <h2 align="center">Data Science, Computer Science BSc.</h2>
 
-- 🎯 Currently working on LLM and NLP solutions
-- 🌱 Learning MLOps, AWS, Docker, Kubernetes, Big Data Concepts (Spark, Kafka, Airflow)
+- 🎯 Currently working on LLM and NLP solutions.
+- 🌱 Learning MLOps, AWS, Docker, Kubernetes, Big Data Concepts (Spark, Kafka, Airflow).
 - 📌 Sharing all my projects publicly available on GitHub as open source.
-- ♻️ Contributing to the data science community through Kaggle projects and competitions
-- 💬 Ask me about Data Science, Machine Learning
-- 🤝 Open to collaborating on Projects
+- ♻️ Contributing to the data science community through Kaggle projects and competitions.
+- 💬 Ask me about Data Science, Machine Learning.
+- 🤝 Open to collaborating on Projects!
 - 📫 How to reach me : [**LinkedIn**](https://www.linkedin.com/in/duygujones/)
 - ⚡ Languages : **English & Turkish**
  
