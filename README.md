@@ -12,11 +12,10 @@
 
 <h2 align="center">Data Science, Computer Science BSc.</h2>
 
-- 🎯 Currently working on LLM and NLP solutions.
-- 🌱 Learning AWS, Docker, and Big Data Concepts (Spark, Airflow).
-- 📌 Sharing all my projects publicly available on GitHub as open source.
+- 🎯 Currently working with LLMs.
+- 📌 Sharing all my custom projects publicly available on GitHub as open source.
 - ♻️ Contributing to the data science community through blogs, Kaggle projects and competitions.
-- 💬 Ask me about Data Science, Machine Learning.
+- 💬 Ask me about Data Science, Machine Learning, LLMs.
 - 🤝 Open to collaborating on Projects!
 - 📫 How to reach me : [**LinkedIn**](https://www.linkedin.com/in/duygujones/)
 - ⚡ Languages : **English & Turkish**
@@ -24,7 +23,7 @@
 <br> 
 
 
-🌱 You can find more about me and my work on my  [**Portfolio website**](https://duygujones.vercel.app/). 
+🌱 You can find more about me and my work on my  [**Portfolio website**](https://duygujones.vercel). 
 
 📢I announce and share all my projects first on my [**LinkedIn**](https://www.linkedin.com/in/duygujones/) profile. <br>
 🌐Feel free to connect with me!
